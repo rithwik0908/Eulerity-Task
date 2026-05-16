@@ -22,8 +22,7 @@ Do not commit secrets. If you want live Gemini suggestions, set the API key in y
 ```bash
 export GEMINI_API_KEY="your_gemini_api_key_here"
 ./mvnw spring-boot:run
-
-If `GEMINI_API_KEY` is missing, the app returns a deterministic demo suggestion so reviewers can run it locally without a Gemini account.
+```
 
 ## Run
 
