@@ -1,0 +1,11 @@
+target/
+.env
+.mvn/wrapper/apache-maven-*/
+.mvn/wrapper/apache-maven-*-bin.zip
+.mvn/wrapper/jdk-*/
+.mvn/wrapper/jdk-*.tar.gz
+.idea/
+*.iml
+.classpath
+.project
+.settings/
